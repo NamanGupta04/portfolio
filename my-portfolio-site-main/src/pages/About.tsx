@@ -85,7 +85,10 @@ const About = () => {
                   <Link to="/contact">Let's Talk</Link>
                 </Button>
                 <Button variant="heroOutline" size="lg" asChild>
-                  <a href="mailto:namang808@gmail.com">
+                  <a href="/public/Naman_Gupta_Resume.pdf" download
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex items-center gap-2">
                     <Download className="w-4 h-4" />
                     Download Resume
                   </a>
