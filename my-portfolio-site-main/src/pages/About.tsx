@@ -85,9 +85,8 @@ const About = () => {
                   <Link to="/contact">Let's Talk</Link>
                 </Button>
                 <Button variant="heroOutline" size="lg" asChild>
-                  <a href="/public/Naman_Gupta_Resume.pdf" download
-                      target="_blank"
-                      rel="noopener noreferrer"
+                  <a href="https://drive.google.com/file/d/1mq8iKjwT2nZWshm7YYmRnuKese-QmCPa/view?usp=sharing"
+              
                       className="flex items-center gap-2">
                     <Download className="w-4 h-4" />
                     Download Resume
